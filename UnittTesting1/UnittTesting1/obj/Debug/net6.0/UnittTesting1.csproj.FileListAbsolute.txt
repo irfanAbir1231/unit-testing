@@ -1,0 +1,15 @@
+C:\Users\Hp\Documents\Lab02\BankingSystem\UnittTesting1\UnittTesting1\bin\Debug\net6.0\UnittTesting1.exe
+C:\Users\Hp\Documents\Lab02\BankingSystem\UnittTesting1\UnittTesting1\bin\Debug\net6.0\UnittTesting1.deps.json
+C:\Users\Hp\Documents\Lab02\BankingSystem\UnittTesting1\UnittTesting1\bin\Debug\net6.0\UnittTesting1.runtimeconfig.json
+C:\Users\Hp\Documents\Lab02\BankingSystem\UnittTesting1\UnittTesting1\bin\Debug\net6.0\UnittTesting1.dll
+C:\Users\Hp\Documents\Lab02\BankingSystem\UnittTesting1\UnittTesting1\bin\Debug\net6.0\UnittTesting1.pdb
+C:\Users\Hp\Documents\Lab02\BankingSystem\UnittTesting1\UnittTesting1\obj\Debug\net6.0\UnittTesting1.csproj.AssemblyReference.cache
+C:\Users\Hp\Documents\Lab02\BankingSystem\UnittTesting1\UnittTesting1\obj\Debug\net6.0\UnittTesting1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Documents\Lab02\BankingSystem\UnittTesting1\UnittTesting1\obj\Debug\net6.0\UnittTesting1.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\Lab02\BankingSystem\UnittTesting1\UnittTesting1\obj\Debug\net6.0\UnittTesting1.AssemblyInfo.cs
+C:\Users\Hp\Documents\Lab02\BankingSystem\UnittTesting1\UnittTesting1\obj\Debug\net6.0\UnittTesting1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\Lab02\BankingSystem\UnittTesting1\UnittTesting1\obj\Debug\net6.0\UnittTesting1.dll
+C:\Users\Hp\Documents\Lab02\BankingSystem\UnittTesting1\UnittTesting1\obj\Debug\net6.0\refint\UnittTesting1.dll
+C:\Users\Hp\Documents\Lab02\BankingSystem\UnittTesting1\UnittTesting1\obj\Debug\net6.0\UnittTesting1.pdb
+C:\Users\Hp\Documents\Lab02\BankingSystem\UnittTesting1\UnittTesting1\obj\Debug\net6.0\UnittTesting1.genruntimeconfig.cache
+C:\Users\Hp\Documents\Lab02\BankingSystem\UnittTesting1\UnittTesting1\obj\Debug\net6.0\ref\UnittTesting1.dll
